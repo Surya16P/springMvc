@@ -15,6 +15,20 @@
 	    <artifactId>spring-webmvc</artifactId>
 	    <version>6.1.8</version>
 	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-data-jpa</artifactId>
+		<version>3.2.5</version>
+	</dependency>
+		
+	<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+	<dependency>
+		 <groupId>org.postgresql</groupId>
+		 <artifactId>postgresql</artifactId>
+		 <version>42.7.2</version>
+	</dependency>
 
     <dependency>
       <groupId>junit</groupId>
